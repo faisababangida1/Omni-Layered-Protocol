@@ -2,7 +2,7 @@
 
 **Author:** Faisal Babangida  
 **Location:** Jos, Nigeria  
-**Contact:** contact@nguru.online | babangidafaisal1@gmail.com  
+**Contact:** +2349120851828 | babangidafaisal1@gmail.com  
 
 ### Abstract
 The legacy internet relies on sequential data processing and flat user interfaces, forcing human operators to spend infinite cognitive energy filtering through repetitive noise, hallucination, and fragmented links. This paper introduces the **Omni-Layered Protocol (OLP)** and the **Light Layered Interface (LLI)**—a paradigm-shifting architecture that replaces search engines with a Simultaneous Synthesis Engine. By leveraging high-dimensional vector embeddings and the physics of wave interference, the OLP instantly merges objective truths, cancels redundant noise, and spatially maps differing opinions and supporting data. This architecture gives rise to the **Crosset Network**, a decentralized economy of shareable, multi-dimensional knowledge states.
